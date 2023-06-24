@@ -1,6 +1,6 @@
 # Docker wordpress demo
 
-### In MariaDB Interface
+### In Adminer Interface
 Run the following command:
 ```
 docker-compose -f dc.yml up -d
